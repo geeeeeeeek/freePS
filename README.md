@@ -18,6 +18,11 @@ https://freeps.org/
 - Edge
 - Safari
 
+## Deploy
+
+Just download this code, upload to your server. home page is index.html
+
+
 ## Thanks
 
 https://github.com/viliusle/miniPaint
