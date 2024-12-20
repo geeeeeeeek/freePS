@@ -9,6 +9,8 @@ FreePS operates directly in the browser. You can create images, paste from the c
 
 https://freeps.org/
 
+https://zaixianps.net/ (中文版)
+
 
 ## Browser Support
 
